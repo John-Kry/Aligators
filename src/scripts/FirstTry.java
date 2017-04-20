@@ -63,6 +63,7 @@ public class FirstTry extends Script {
 		Banking.close();
 		totalBanked = totalBanked + 28;
 		System.out.println(totalBanked);
+		//testcomment
 
 	}
 	private void climbUp(int OBJ_ID) {
